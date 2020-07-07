@@ -6,7 +6,7 @@
 	},
 	"groups": {
 		"0": {
-			"title": "Troneträsk Isläggningsdag", 
+			"title": "Torneträsk Isläggningsdag", 
 			"subTitle": "",
 			"caption": "Årets dag för isläggning av sjöisen",
 			"yAxis": {
@@ -16,7 +16,7 @@
 			"legend": "Väder"
 		},
 		"1": {
-			"title": "Troneträsk Skillnad i datum för isläggning från baslinjen",
+			"title": "Torneträsk Skillnad i datum för isläggning från baslinjen",
 			"subTitle": "",
 			"caption": "Skillnad i isläggning och islossning från utgångsperioden, vanligtvis 1961 till 1990",
 			"yAxis": {
